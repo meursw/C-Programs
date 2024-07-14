@@ -1,5 +1,5 @@
 # C-Programs
 C programs that I create or write from tutorials
 
-## First program
-  Dynamic Programming: Maximum consecutive sum of array 
+# List of programs I've written so far
+  - Dynamic Programming: Maximum consecutive sum of array 
